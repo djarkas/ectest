@@ -73,8 +73,10 @@ p {
   70% { left: -200%; }
   75% { left: -300%; }
   95% { left: -300%; }
+  100% { left: -400%; }
+}
 
-  }
+ 
   
   body { margin: 0; } 
   div#slider { overflow: hidden; }
