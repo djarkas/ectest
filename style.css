@@ -60,6 +60,12 @@ h1 {
     font-size:20px;
     text-align: center;
   }
+p{
+    font-family: copperplate;
+    color: #E85A4F;
+    font-size:20px;
+    text-align: center;
+}
 
 /* slider in home*/
 @keyframes slidy {
