@@ -54,14 +54,12 @@ h1 {
     text-align: center;
   }
   
-
-
-p {
+  p{
     font-family: copperplate;
     color: #E85A4F;
     font-size:20px;
     text-align: center;
-}
+  }
 
 /* slider in home*/
 @keyframes slidy {
@@ -73,10 +71,8 @@ p {
   70% { left: -200%; }
   75% { left: -300%; }
   95% { left: -300%; }
-  100% { left: -400%; }
-}
 
- 
+  }
   
   body { margin: 0; } 
   div#slider { overflow: hidden; }
@@ -89,9 +85,9 @@ p {
     text-align: center;
     font-size: 0;
     animation: 30s slidy infinite; 
+
   }
 
-  
   
   
   /* This is the grid in home */
@@ -254,12 +250,3 @@ background: #E98074;
         width: 90%;
     }
 }
-
-
-   
-  
-  
-  
-  
-  
-  
